@@ -1,5 +1,8 @@
 package com.tnsif.springdemo;
 
-public class Mobile {
-
+public interface Mobile {
+	
+	void call();
+	void data();
+	
 }
