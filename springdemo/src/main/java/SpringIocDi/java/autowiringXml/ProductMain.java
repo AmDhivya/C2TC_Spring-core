@@ -1,4 +1,4 @@
-package com.tnsif.SpringIocDi.java.autowiringXml;
+package SpringIocDi.java.autowiringXml;
 
 import java.util.ArrayList;
 import org.springframework.context.ApplicationContext;

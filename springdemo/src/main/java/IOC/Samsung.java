@@ -1,4 +1,4 @@
-package com.tnsif.IOC;
+package IOC;
 
 public class Samsung implements Phone{
 	public void calling()

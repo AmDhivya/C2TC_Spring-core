@@ -1,4 +1,4 @@
-package com.tnsif.IOC;
+package IOC;
 
 public interface Phone {
 

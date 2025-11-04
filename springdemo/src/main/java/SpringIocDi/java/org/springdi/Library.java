@@ -1,4 +1,4 @@
-package com.tnsif.SpringIocDi.java.org.springdi;
+package SpringIocDi.java.org.springdi;
 
 import java.util.List;
 

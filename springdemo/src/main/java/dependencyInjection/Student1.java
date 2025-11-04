@@ -1,4 +1,4 @@
-package com.tnsif.dependencyInjection;
+package dependencyInjection;
 
 public class Student1 {
 	private int sid;

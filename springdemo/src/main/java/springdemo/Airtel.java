@@ -1,4 +1,4 @@
-package com.tnsif.springdemo;
+package springdemo;
 
 public class Airtel implements Mobile{
 

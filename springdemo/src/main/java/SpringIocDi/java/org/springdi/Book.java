@@ -1,4 +1,4 @@
-package com.tnsif.SpringIocDi.java.org.springdi;
+package SpringIocDi.java.org.springdi;
 
 public class Book {
     // Private fields to store the title and author of the book

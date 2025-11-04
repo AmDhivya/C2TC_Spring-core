@@ -1,4 +1,4 @@
-package com.tnsif.dependencyInjection;
+package dependencyInjection;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

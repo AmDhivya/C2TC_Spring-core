@@ -1,4 +1,4 @@
-package com.tnsif.SpringIocDi.java.org.springdi;
+package SpringIocDi.java.org.springdi;
 
 public class Employee {
     // Unique identifier for the employee
