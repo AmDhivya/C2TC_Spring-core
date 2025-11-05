@@ -1,4 +1,4 @@
-package springbasic;
+package com.tnsif.Springcore_Annotations;
 
 import org.junit.jupiter.api.Test;
 
