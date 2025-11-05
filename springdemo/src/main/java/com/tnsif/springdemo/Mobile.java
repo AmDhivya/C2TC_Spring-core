@@ -1,4 +1,4 @@
-package springdemo;
+package com.tnsif.springdemo;
 
 public interface Mobile {
 	
